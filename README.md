@@ -1,7 +1,11 @@
 # Namma Siri Dhanya 🌾
 
-Namma Siri Dhanya is a multilingual Android application developed using Kotlin and Jetpack Compose to promote millet awareness, empower farmers, and connect consumers directly with producers.
+## Problem statement
+## 📌 Problem Statement
 
+Farmers and consumers often face difficulties in accessing accurate millet market prices, health information, and direct marketplace connectivity. Existing systems provide limited multilingual support and lack user-friendly digital platforms for promoting millet awareness and healthy food habits.
+
+The aim of this project is to develop a multilingual Android application called **Namma Siri Dhanya** that helps users explore millet information, view live mandi prices, analyze market trends through graphs, access health suggestions, and connect farmers directly with consumers using a simple and interactive platform.
 ## Features
 
 - 🌾 Live Mandi Millet Prices
@@ -25,7 +29,7 @@ Namma Siri Dhanya is a multilingual Android application developed using Kotlin a
 - Firebase Authentication
 - Firebase Firestore
 - Retrofit
-- MPAndroidChart
+- MPAndroidChar
 - Data Gov India API
 
 ## Modules
@@ -41,6 +45,13 @@ Shows nutritional benefits, protein/fiber charts, and AI-based suggestions.
 
 ### Buyer Marketplace
 Allows consumers to connect directly with farmers and place millet orders.
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open in Android Studio
+3. Sync Gradle
+4. Run the app on emulator/device
 
 ## Developed By
 
